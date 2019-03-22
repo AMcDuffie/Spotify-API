@@ -1,7 +1,7 @@
 # liri node app
 Week 10 (LIRI Bot) LIRI is a Language Interpretation and Recognition Interface.
 
-![liri node ap](results.jpg)
+![liri node ap](image/results.jpg)
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
